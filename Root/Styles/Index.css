@@ -3,3 +3,9 @@ html, body {
   width: 100%;
   background-color: #141414;;
 }
+._IndexBGDark { 
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
